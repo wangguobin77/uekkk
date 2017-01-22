@@ -1,0 +1,243 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  font-style: normal;
+  /*background: #F5F6FA;*/
+  font-size: 16px;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+
+}
+ul,
+li,
+dt,
+dd,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  list-style: none;
+}
+img {
+  display: block;
+  margin-top: 0;
+  border: 0;
+
+}
+a {
+  text-decoration: none;
+}
+.blog {
+  width: 100%;
+  background-color:#007BE3;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+}
+.row1{
+  margin-top: 0;
+}
+.logo{
+  width: 100%;
+  height: 0.9rem;
+}
+.logo1{
+   width: 0.7rem;
+  margin: 0 auto;
+  vertical-align: middle;
+  padding-top: 0.1rem;
+  margin-left: 2.7rem;
+
+}
+.logo h2{
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  margin-left:17px;
+  text-align: center;
+  line-height: 0.9rem;
+  margin-top: -0.80rem;
+}
+.banner img{
+  margin: 0;
+  padding: 0;
+  height: 4.218rem;
+  width: 100%;
+}
+
+/*banner1  下 学员*/
+ .gxxy{
+  width:100%;
+  height: 100%:;
+  box-sizing:border-box;
+ }
+.nav{
+  height: 0.8rem;
+  width: 100%;
+  font-size: 12px;
+  color:#494747;
+  line-height: 0.8rem;
+  background: #F5F6FA;
+ }
+ .nav a{
+   color:#494747;
+   padding-left: 0.25rem;
+
+ }
+ 
+/*bannerxia*/
+
+
+ .student{
+  height: 100%;
+  width: 100%;
+  border-bottom: 10px solid #F5F6FA;
+  box-sizing:border-box;
+ }
+ .project{
+  width: 7.5rem;
+  height: 100%;
+  border-left:12px solid #F5F6FA;
+  border-right:12px solid #F5F6FA;
+   box-sizing:border-box;
+ }
+.project span{
+    display: block;
+    height: 0.24rem;
+    width: 0.04rem;
+    background:#01B5FF;
+    margin-top: 0.5rem;
+    margin-left: 0.15rem;
+
+
+  }
+.project h3{
+      display: block;
+      margin-top:-0.25rem;
+      margin-left: 0.36rem;
+      font-size:16px;
+
+    }
+.xian{
+      border:1px dashed #ABABAB;
+      margin-top: 0.1rem;
+      margin-left: 0.36rem;
+      margin-right:0.3rem;
+    }
+.project .nav1{
+  height:0.67rem;
+  width: 100%;
+
+}
+
+.project .tj{
+  margin-left: 0.3rem;
+  font-size: 14px;
+  color:#666666;
+  margin-bottom:0.5rem;
+
+}
+.kuai{
+  height: 3.6rem;
+  background: #474747;
+}
+
+.xian1{
+  margin-top: 0.3rem;
+}
+
+.contact{
+  height: 0.4rem;
+  margin-top: 0.3rem;
+  padding-left:0.3rem;
+  padding-right: 0.2rem; 
+  position: relative;
+}
+.contact h2{
+  line-height: 0.4rem;
+  font-size: 12px;
+  color: #000;
+
+}
+.contact .tb{
+  position: absolute;
+  width: 2.8rem;
+  height: 0.4rem;
+  left: 0.98rem;
+  top: 0;
+
+
+
+}
+.contact .tb a{
+  display: block;
+  height: 0.4rem;
+  width: 0.4rem;
+  border-radius: 50%;
+  float: left;
+  vertical-align: middle;
+   margin-left:0.15rem;
+
+}
+
+.contact .tb a img{
+  display: block;
+  height: 0.4rem;
+  width: 0.4rem;
+  margin-left:0.2rem;
+}
+
+
+.contact .shou {
+  height: 0.4rem;
+  width: 0.4rem;
+  border-radius: 50%;
+  vertical-align: middle;
+  background:url(../img/shou.png) no-repeat center center/60%;
+  background-color: #FE6E20;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  right: 0.2rem;
+
+  
+}
+
+
+/*.contact .wx {
+  display: block;
+  height: 0.4rem;
+  float:left;
+  width: 0.4rem;
+  border-radius: 50%;
+  vertical-align: middle;
+  background:url(../img/winxin.png) no-repeat center center/60%;
+  /*background-color: #3CB034;*/
+  /*margin-left:0.37rem;*/
+ 
+
+  
+/*}*/
+/*bottom*/
+.footer{
+  height:1.15rem;
+  background:#F5F6FA;
+  position: relative;
+  margin-top:0.3rem;
+
+}
+
+
+#bq{
+ 
+  margin: 0 auto;
+  margin-top:0.34rem;
+  text-align: center;
+  font-size:10px;
+  color:666666;
+} 

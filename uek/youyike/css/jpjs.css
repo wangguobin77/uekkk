@@ -1,0 +1,243 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  font-style: normal;
+  /*background: #F5F6FA;*/
+  font-size: 16px;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+
+}
+ul,
+li,
+dt,
+dd,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+img {
+  display: block;
+  margin-top: 0;
+  border: 0;
+
+}
+a {
+  text-decoration: none;
+}
+.blog {
+  width: 100%;
+  background-color:#007BE3;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+}
+.row1{
+  margin-top: 0;
+}
+.logo{
+  width: 100%;
+  height: 0.9rem;
+}
+.logo1{
+  width: 0.7rem;
+  margin: 0 auto;
+  vertical-align: middle;
+  padding-top: 0.1rem;
+  margin-left: 2.7rem;
+
+}
+.logo h2{
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  margin-left:17px;
+  text-align: center;
+  line-height: 0.9rem;
+  margin-top: -0.80rem;
+}
+.banner img{
+  margin: 0;
+  padding: 0;
+  height: 4.218rem;
+  width: 100%;
+}
+
+
+/*banner1  下 学员*/
+ .gxxy{
+  width:100%;
+  height: 100%:;
+ /* border-bottom: 10px solid #F5F6FA;
+  box-sizing:border-box;*/
+ }
+.nav{
+  height: 0.8rem;
+  width: 100%;
+  font-size: 12px;
+  color:#494747;
+  line-height: 0.8rem;
+  background: #F5F6FA;
+ }
+ .nav a{
+   color:#494747;
+   padding-left: 0.25rem;
+
+ }
+ .student{
+  width: 100%;
+  border-bottom: 10px solid #F5F6FA;
+ /* border-left:12px solid #F5F6FA;
+  border-right:12px solid #F5F6FA;
+  box-sizing:border-box;*/
+ }
+ .tp{
+  width: 2.8rem;
+  height: 2.8rem;
+  border-radius: 5px;
+ 
+ }
+
+.project{
+ /* border-left:12px solid #F5F6FA;
+  border-right:12px solid #F5F6FA;
+  box-sizing:border-box;*/
+
+}
+
+.project span{
+    display: block;
+    height: 0.24rem;
+    width: 0.04rem;
+    background:#01B5FF;
+    margin-top: 0.5rem;
+    margin-left: 0.15rem;
+
+
+  }
+/*  .project1 span{
+    display: block;
+    height: 0.24rem;
+    width: 0.04rem;
+    background:#01B5FF;
+    margin-top: 0.5rem;
+    margin-left: 0.15rem;
+
+
+  }*/
+.project h3{
+      display: block;
+      margin-top:-0.25rem;
+      margin-left: 0.36rem;
+      font-size:16px;
+
+    }
+.xian{
+      border:1px dashed #ABABAB;
+      margin-top: 0.1rem;
+      margin-left: 0.36rem;
+      margin-right:0.3rem;
+    }
+.tp{
+  margin-top: 0.3rem;
+  margin-left:0.44rem;
+}
+
+.right a{
+  display: block;
+  height: 0.37rem;
+  width: 100%;
+  text-align: center;
+  line-height: 0.37rem;
+  margin-top: 0.5rem;
+}
+.right a h2{
+   display: inline-block;
+  float: left;
+  font-size: 16px;
+  text-align: left;
+  color: #000;
+  font-weight: bold;
+}
+.right a h4{
+  font-size:12px;
+  text-align: right;
+  color: #01B5FF;
+  font-weight: bold;
+  display: inline-block;
+  float: left;
+
+
+}
+.right a h3{
+  display: inline-block;
+  float: left;
+  font-size: 14px;
+  color: #000;
+  font-weight: bold;
+  margin-left: 0;
+}
+.wenzi h4{
+  display: inline-block;
+  margin-top:-0.2rem;
+
+}
+.wenzi1{
+  margin-bottom: 0.6rem;
+}
+
+
+.qywh{
+  /*height: 4.3rem;*/
+  width: 100%;
+  border-bottom:10px solid #F5F6FA;
+  border-left:12px solid #F5F6FA;
+  border-right:12px solid #F5F6FA;
+   box-sizing:border-box;
+
+
+}
+.project1{
+ 
+  width: 100%;
+   border-bottom:10px solid #F5F6FA;
+  border-left:12px solid #F5F6FA;
+  border-right:12px solid #F5F6FA;
+   box-sizing:border-box;
+}
+.project1 p{
+  padding-top: 0.2rem;
+  padding-left: 0.34rem;
+  padding-right: 0.15rem;
+  font-size: 14px;
+  line-height: 1.5em;
+  color:#949494;
+  font-weight: bold;
+
+}
+
+
+/*footer*/
+.footer{
+  height:1.22rem;
+  background:#F5F6FA;
+  position: relative;
+
+}
+
+#bq{
+  margin: 0 auto;
+  text-align: center;
+  margin-top:0.34rem;
+  font-size: 10px;
+  color:666666;
+} 
