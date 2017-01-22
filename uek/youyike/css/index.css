@@ -1,0 +1,251 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  font-style: normal;
+  /*background: #F5F6FA;*/
+  font-size: 16px;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+
+}
+ul,
+li,
+dt,
+dd,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  list-style: none;
+}
+img {
+  display: block;
+  margin-top: 0;
+  border: 0;
+
+}
+a {
+  text-decoration: none;
+}
+.blog {
+  width: 100%;
+  background-color:#007BE3;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+}
+.row1{
+  margin-top: 0;
+}
+.logo{
+  width: 100%;
+  height: 0.9rem;
+}
+.logo1{
+ width: 0.7rem;
+  margin: 0 auto;
+  vertical-align: middle;
+  padding-top: 0.1rem;
+  margin-left: 2.7rem;
+
+}
+.logo h2{
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  margin-left:17px;
+  text-align: center;
+  line-height: 0.9rem;
+  margin-top: -0.80rem;
+}
+.banner img{
+  margin: 0;
+  padding: 0;
+  height: 4.218rem;
+  width: 100%;
+}
+.banner1{
+  height:4.84rem;
+  background: #F5F6FA;
+  padding: 0.3rem 0.25rem;
+
+}
+.banner1 a{
+  display: block;
+  height: 1.55rem;
+  width: 1.55rem;
+  background: #fff;
+  border-radius: 22px;
+  box-shadow: 3px 3px 3px #CED1D3;
+  text-align: justify;
+  margin: 0 auto;
+}
+.banner1 a:nth-child(4){
+   margin-right:0;
+
+}
+.banner1 a img{
+  display: block;
+  width: 0.98rem;
+  height: 0.98rem;
+  vertical-align: middle;
+  margin: 0 auto;
+   padding-top: 0.28rem;
+   text-align: justify;
+
+}
+.banner1 span{
+  display: inline-block;
+  width:100%;
+  text-align: center;
+  margin-top: 0.18rem;
+  margin-bottom: 0.3rem;
+  font-size: 12px;
+}
+.nav{
+  height:0.65rem;
+  width: 100%;
+  color: #1378BA;
+  text-align: center;
+  /*line-height: 0.65rem;*/
+  border-bottom: 1px solid #E8E8E8;
+}
+.nav a{
+  color: #1378BA;
+  text-align: center;
+  line-height: 0.65rem;
+   font-weight:bold;
+   font-size: 12px;
+
+}
+
+   /*<!-- 免费体检 -->*/
+   .roww{
+    height: 2.2rem;
+
+   }
+
+   .tj{
+    
+     position: relative;
+     height: 2.2rem;
+   }
+   .tj h3{
+    font-size: 12px;
+    padding-left: .19rem;
+    padding-top: 0.3rem;
+    color:000;
+   }
+.tj a{
+  display: inline-block;
+  color:#A1A1A1;
+  padding-left: .19rem;
+  margin-top: -0.4rem;
+  font-size: 10px;
+
+}
+.tj img{
+  position: absolute;
+  width: 1.30rem;
+  height: 1.3rem;
+  right:0.2rem;
+  top: 0.38rem
+
+}
+/*<!-- 免费试听 -->*/
+ .st{
+     border-bottom: 1px solid #E8E8E8;
+     position: relative;
+   }
+
+  .st1 img{
+    padding-top: 0.4rem;
+    padding-left: 0.2rem;
+    width: 0.6rem;
+    height: 0.6rem;
+    position: relative;
+
+  }
+    .st1 h3{
+      display: inline-block;
+      float: right;
+      margin-top:-0.52rem;
+      margin-left:0.55rem;
+      font-size: 12px;
+
+    }
+
+
+     .st1 a{
+      display: block;
+      width: 100%;
+      font-size: 10px;
+      margin-top: 0.3rem;
+      color: #A9A9A9;
+      text-align: center;
+       margin-left: 0.7rem;
+
+      
+
+  
+     }
+
+     .clear{
+      display: block;
+      font-size: 0;
+
+      clear: both;
+
+     }
+     .bottom{
+      margin-top: 0;
+      height: 1.4rem;
+      width: 100%;
+      border-top: 0.2rem solid #F5F6FA;
+      border-bottom: 0.4rem solid #F5F6FA;
+      box-sizing:border-box;
+     }
+    .search{
+      display: block;
+      margin-top: 25px;
+      margin-left: 0.2rem;
+    }
+
+    .bottom .xq{
+      display: block;
+      margin-left: 0.65rem;
+       margin-top: -25px;
+       font-size: 12px;
+       color: #000;
+      padding-left: 0.4rem;
+    }
+
+    .call{
+      background: #FF7E00;
+      text-align: center;
+      height: 100%; 
+      color: #fff;
+      border-radius: 8px;
+    }
+    .call .mf{
+      display:block;
+       color: #fff;
+       font-weight: bold;
+       font-size: 12px;
+       margin-left: .3rem;
+      margin-top: -30px;
+      line-height: 0.8rem;
+
+    }
+    .zaixian{
+      text-align: center;
+    }
+    .zaixian img{
+      padding-left: 0.4rem;
+
+    }
